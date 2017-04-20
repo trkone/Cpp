@@ -25,6 +25,7 @@ int main(int argc, char const *argv[])
 
 
 	// işimiz bittiğinde bellekten silmek için
+	// delete değişkenin_ismi;
 
 	delete a;
 
